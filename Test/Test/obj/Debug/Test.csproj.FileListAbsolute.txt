@@ -1,0 +1,7 @@
+C:\Users\idsp03001\source\repos\Test av Github\Test\Test\bin\Debug\Test.exe.config
+C:\Users\idsp03001\source\repos\Test av Github\Test\Test\bin\Debug\Test.exe
+C:\Users\idsp03001\source\repos\Test av Github\Test\Test\bin\Debug\Test.pdb
+C:\Users\idsp03001\source\repos\Test av Github\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\idsp03001\source\repos\Test av Github\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\idsp03001\source\repos\Test av Github\Test\Test\obj\Debug\Test.exe
+C:\Users\idsp03001\source\repos\Test av Github\Test\Test\obj\Debug\Test.pdb
